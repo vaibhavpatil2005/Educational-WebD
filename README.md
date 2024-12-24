@@ -1,3 +1,4 @@
+
 # Educa - An Educational Web Platform
 ![Educa Interface](https://github.com/user-attachments/assets/e4b1273e-5ff2-4d31-ad50-977d0013a1fb)
 Educa is an interactive web platform designed to make learning engaging and accessible. The project offers features such as course browsing, user engagement tracking, and category-based content exploration.
