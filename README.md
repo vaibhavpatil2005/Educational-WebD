@@ -38,4 +38,5 @@ Educa is an interactive web platform designed to make learning engaging and acce
 
 
 # Educational-WebD  -Link
-https://educawd.netlify.app/
+1. https://educawd.netlify.app/
+2. https://vaibhavpatil2005.github.io/Educational-WebD/
